@@ -2,6 +2,7 @@
 ## Table of Contents <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" />
 - [Cisco Network Technician Career Path](Cisco_Network_Technician_Career_Path.pdf)
 - [Cisco Computer Hardware Basics](Computer_Hardware_Basics_Badge20241027-7-38pzw0.pdf)
+- [Udemy Labs - Terraform for Beginners](Terraform_For_Beginners.jpg)
   
 ---
 
@@ -12,3 +13,7 @@ This certification validates my deep understanding of network technologies 🖧 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="30" height="30" /> Cisco Computer Hardware Basics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="30" height="30" />
 
 This certification demonstrates my knowledge of essential computer hardware and device components. I gained hands-on experience in assembling PCs and understanding the hardware of devices like laptops, smartphones, and wearable tech 📱🖥️.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="30" height="30" /> Udemy Labs - Terraform for Beginners <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="30" height="30" />
+
+This course covers Terraform basics, HCL, state management, AWS integration, and advanced topics like provisioners, modules, and workspaces—all with hands-on labs. 🚀
