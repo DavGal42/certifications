@@ -1,7 +1,7 @@
 # My Certifications Portfolio <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="50" height="50" />
 ## Table of Contents <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" />
-- [Cisco Network Technician Career Path](Cisco_Network_Technician_Career_Path.pdf)
-- [Cisco Computer Hardware Basics](Computer_Hardware_Basics_Badge20241027-7-38pzw0.pdf)
+- [Cisco - Network Technician Career Path](Cisco_Network_Technician_Career_Path.pdf)
+- [Cisco - Computer Hardware Basics](Computer_Hardware_Basics_Badge20241027-7-38pzw0.pdf)
 - [Udemy Labs - Terraform for Beginners](Terraform_For_Beginners.jpg)
   
 ---
